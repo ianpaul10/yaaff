@@ -6,8 +6,6 @@ Yet another auto form filler
 
 ## Structure
 
-The basic structure and logical flow of this extension is as follows:
-
 ```
 widget_popup.js (User clicks "Autofill")
      ↓
